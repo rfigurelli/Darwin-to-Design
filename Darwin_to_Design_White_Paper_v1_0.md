@@ -44,7 +44,7 @@ Traditional evolutionary models, even in their modern genetic forms, focus heavi
 
 This section outlines how the proposed layered model of evolution directly addresses the conceptual gaps identified above by expanding what qualifies as 'selection' and how evolutionary progress can occur beyond genetics.
 
-**Darwin to Design** introduces a structured, three-layer evolutionary model where each layer evolves its own logic of selection:
+**From Darwin to Design** introduces a structured, three-layer evolutionary model where each layer evolves its own logic of selection:
 
 1. **Minimal Payload (Natural Selection):** Evolution occurs through variation and external environmental pressures. Species adapt or die based on reproductive success—this is Darwin's core contribution, still fully relevant at the biological layer.
 2. **Intelligent Payload (Cognitive Agency):** Species begin to shape their environments through tool use, migration, learning, and social organization. Selection shifts inward, driven by decisions, not just mutations. Intelligence becomes a force that alters what traits are advantageous.
@@ -80,9 +80,9 @@ Just as species evolve, so too do the rules and drivers that shape them. The fol
 
 To understand how the proposed model advances evolutionary thought, we compare it against two dominant historical paradigms: classical Darwinian theory and its modern genetic extension (Neodarwinism). While these models accurately describe the mechanics of physical adaptation, they do not account for the growing role of cognitive agency, cultural transmission, or conscious design in shaping evolutionary outcomes.
 
-**Darwin to Design** reframes evolution as a layered continuum, where higher-order traits like intelligence and wisdom introduce new forms of selection—internal, ethical, and anticipatory. Below is a comparative view:
+**From Darwin to Design** reframes evolution as a layered continuum, where higher-order traits like intelligence and wisdom introduce new forms of selection—internal, ethical, and anticipatory. Below is a comparative view:
 
-| Classical Darwinism                                | Neodarwinism (Genetics)                                   | **Darwin to Design**                                                           |
+| Classical Darwinism                                | Neodarwinism (Genetics)                                   | **From Darwin to Design**                                                           |
 | -------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------ |
 | Natural selection driven by environmental pressure | Genetic inheritance and mutation as drivers of adaptation | Selection evolves: from biological to cognitive to conscious agency            |
 | Species passively shaped by survival outcomes      | Adaptation via mutation and selection across generations  | Species actively shape their evolutionary path through decisions and foresight |
@@ -92,7 +92,7 @@ To understand how the proposed model advances evolutionary thought, we compare i
 
 ## 6  Architecture Overview
 
-The architecture of the **Darwin to Design** model organizes evolution not as a single-threaded biological pipeline, but as a dynamic, interdependent system of layered drivers. These layers are not just conceptual—they can be observed, influenced, and even engineered. The model maps how agency emerges from raw adaptation, grows into intelligence, and culminates in conscious wisdom. Each architectural level has its own feedback loops, carriers of information, and tools of transformation.
+The architecture of the **From Darwin to Design** model organizes evolution not as a single-threaded biological pipeline, but as a dynamic, interdependent system of layered drivers. These layers are not just conceptual—they can be observed, influenced, and even engineered. The model maps how agency emerges from raw adaptation, grows into intelligence, and culminates in conscious wisdom. Each architectural level has its own feedback loops, carriers of information, and tools of transformation.
 
 This framework introduces the idea of **evolution as a programmable stack**, where each layer builds upon and modifies the rules of the one below. These are not merely stages but **operational dimensions** of evolution, constantly in interaction:
 
@@ -134,7 +134,7 @@ This final layer suggests tools and approaches for quantifying evolutionary prog
 
 ## 7  Use Cases
 
-The **Darwin to Design** framework offers a flexible foundation for application in diverse domains, from evolutionary biology to ethics, AI, education, and governance. Below are practical contexts where the model enables new strategies for understanding and influencing evolutionary outcomes:
+The **From Darwin to Design** framework offers a flexible foundation for application in diverse domains, from evolutionary biology to ethics, AI, education, and governance. Below are practical contexts where the model enables new strategies for understanding and influencing evolutionary outcomes:
 
 * **Human Societal Evolution:** Apply the framework to track cultural maturity, guide ethical policymaking, and foster long-term planetary thinking across sciences, ethics, and exploration.
 * **Animal Behavior and Intelligence:** Study leadership and decision-making patterns in intelligent animal species to understand non-genetic evolution and emergent group wisdom.
@@ -166,7 +166,7 @@ Understanding **how selection evolves** is critical to shaping the future of bot
 
 ## 9 Future Exploration
 
-The **Darwin to Design** model opens fertile ground for transdisciplinary research and innovation. Below are extended avenues for exploration, simulation, and application:
+The **From Darwin to Design** model opens fertile ground for transdisciplinary research and innovation. Below are extended avenues for exploration, simulation, and application:
 
 * **Wisdom and Consciousness Metrics:** Develop scalable methods to measure levels of wisdom and consciousness in individuals, collectives, and systems—biological or artificial. This may include behavioral markers, reflective decision metrics, and empathy-based indicators.
 
