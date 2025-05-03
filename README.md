@@ -6,7 +6,7 @@
 
 ---
 
-## Proposal Summary
+## Proposal Summary 
 
 Much like analog radio once reached the masses with a whisper of electricity and wire, **From Darwin to Design** proposes a model where species evolve not just through biology, but through progressively deeper layers of intelligence and consciousness. This is a proposal for a new conceptual architecture in evolutionary theory—one that treats **wisdom as the highest payload**, layered atop intelligence and natural selection.
 
