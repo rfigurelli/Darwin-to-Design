@@ -1,4 +1,4 @@
-# Darwin to Design: Can Evolution Evolve?
+# From Darwin to Design: Can Evolution Evolve?
 
 **White Paper v1.0** — Conceptual White Paper / Theoretical Framework Proposal
 **Author:** Rogério Figurelli
