@@ -8,7 +8,7 @@
 
 ## Proposal Summary
 
-Much like analog radio once reached the masses with a whisper of electricity and wire, **Darwin to Design** proposes a model where species evolve not just through biology, but through progressively deeper layers of intelligence and consciousness. This is a proposal for a new conceptual architecture in evolutionary theory—one that treats **wisdom as the highest payload**, layered atop intelligence and natural selection.
+Just as early theories captured only the surface of dynamic systems, **Darwin to Design** proposes a new paradigm where evolution itself evolves—shifting from blind selection to intelligent and eventually conscious design. This conceptual framework reinterprets evolutionary theory as a layered system of influence, where **wisdom becomes the highest evolutionary signal**, transmitted through intelligence and rooted in natural selection.
 
 This system transmits evolution in **three dimensions**:
 
