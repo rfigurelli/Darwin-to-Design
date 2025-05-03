@@ -22,7 +22,7 @@ From microorganisms to civilizations, this model applies across lifeforms and ep
 
 ## 1  Introduction
 
-Once, natural selection alone explained the progress of life—as if Darwin had captured a still frame of a much more dynamic unfolding. But what if natural selection itself is evolving? As technologies, cultures, and cognition advance, the mechanisms driving evolution may expand into realms beyond genetic mutation and environmental pressure. **Darwin to Design** proposes that natural selection—long regarded as fixed and external—is now subject to internal modification. As intelligence and consciousness emerge, they not only respond to selection; they begin to rewrite it, embedding foresight, intention, and ethical considerations into the evolutionary process. This is not a rejection of Darwin, but an ascent: from reaction to adaptation, from adaptation to intention, from intention to wisdom.
+Once, natural selection alone explained the progress of life—as if Darwin had captured a still frame of a much more dynamic unfolding. But what if natural selection itself is evolving? As technologies, cultures, and cognition advance, the mechanisms driving evolution may expand into realms beyond genetic mutation and environmental pressure. **From Darwin to Design** proposes that natural selection—long regarded as fixed and external—is now subject to internal modification. As intelligence and consciousness emerge, they not only respond to selection; they begin to rewrite it, embedding foresight, intention, and ethical considerations into the evolutionary process. This is not a rejection of Darwin, but an ascent: from reaction to adaptation, from adaptation to intention, from intention to wisdom.
 
 ---
 
