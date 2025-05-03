@@ -8,7 +8,7 @@
 
 ## Proposal Summary
 
-Just as early theories captured only the surface of dynamic systems, **Darwin to Design** proposes a new paradigm where evolution itself evolves—shifting from blind selection to intelligent and eventually conscious design. This conceptual framework reinterprets evolutionary theory as a layered system of influence, where **wisdom becomes the highest evolutionary signal**, transmitted through intelligence and rooted in natural selection.
+Just as early theories captured only the surface of dynamic systems, **From Darwin to Design** proposes a new paradigm where evolution itself evolves—shifting from blind selection to intelligent and eventually conscious design. This conceptual framework reinterprets evolutionary theory as a layered system of influence, where **wisdom becomes the highest evolutionary signal**, transmitted through intelligence and rooted in natural selection.
 
 This system transmits evolution in **three dimensions**:
 
