@@ -146,7 +146,7 @@ The **Darwin to Design** framework offers a flexible foundation for application 
 
 ---
 
-## 8.1 Evolution of Selection Itself
+## 8 Evolution of Selection Itself
 
 The core proposition of this framework is that **natural selection is not static—it evolves**. While Darwin described selection as a force of environmental pressure on genetic variation, this proposal suggests that **selection itself changes across evolutionary dimensions**:
 
@@ -164,7 +164,7 @@ Understanding **how selection evolves** is critical to shaping the future of bot
 
 ---
 
-## 8.2 Future Exploration
+## 9 Future Exploration
 
 The **Darwin to Design** model opens fertile ground for transdisciplinary research and innovation. Below are extended avenues for exploration, simulation, and application:
 
@@ -180,7 +180,11 @@ The **Darwin to Design** model opens fertile ground for transdisciplinary resear
 
 * **Leadership Design Standards:** Formalize standards for leadership selection and development based not on charisma or efficiency alone, but on evolutionary impact—measured by wisdom, foresight, and intergenerational empathy.
 
-* **Spiritual and Philosophical Integration:** Study parallels between conscious evolution and spiritual traditions (e.g., noogenesis, self-realization, dharma), potentially uniting ancient wisdom with scientific rigor.## 9  References
+* **Spiritual and Philosophical Integration:** Study parallels between conscious evolution and spiritual traditions (e.g., noogenesis, self-realization, dharma), potentially uniting ancient wisdom with scientific rigor.
+
+---
+
+## 10  References
 
 1. Darwin, C. (1859). *On the Origin of Species.* London: John Murray. [https://www.gutenberg.org/ebooks/1228](https://www.gutenberg.org/ebooks/1228)
 2. Kimura, M. (1968). *Evolutionary rate at the molecular level.* Nature. [https://www.nature.com/articles/217624a0](https://www.nature.com/articles/217624a0)
@@ -196,7 +200,7 @@ The **Darwin to Design** model opens fertile ground for transdisciplinary resear
 
 ---
 
-## 10  License
+## 11  License
 
 Creative Commons Attribution 4.0 International (CC BY 4.0)
 © 2025 Rogério Figurelli. This is a conceptual framework provided "as is" without warranty. You are free to share and adapt under the terms of CC BY 4.0.
